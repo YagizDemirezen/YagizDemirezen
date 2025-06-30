@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/](https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/)
-
 - 📫 How to reach me **yagizdemirezen@gmail.com**
 
 <h3 align="left" style="display: flex; align-items: center; gap: 75 px;">
