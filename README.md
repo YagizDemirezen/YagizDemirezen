@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Software Developer from Turkey!</h3>
 
-- 🔭 I’m currently working on [Balkie](https://www.balkie.co/)
-
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase**
 
 - 📫 How to reach me **yagizdemirezen@gmail.com**
