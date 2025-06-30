@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **yagizdemirezen@gmail.com**
 
-<h3 align="left" style="display: flex; align-items: center; gap: 10px;">
+<h3 align="left" style="display: flex; align-items: center; gap: 15px;">
   Connect with me:
   <a href="https://linkedin.com/in/yağız-demirezen" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" />
   </a>
 </h3>
 
