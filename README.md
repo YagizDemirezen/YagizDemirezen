@@ -7,7 +7,7 @@
 
 <h3 align="left" style="display: flex; align-items: center; gap: 75 px;">
   Connect with me in LinkedIn:
-  <a href="[https://linkedin.com/in/yağız-demirezen](https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/)" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" />
   </a>
 </h3>
