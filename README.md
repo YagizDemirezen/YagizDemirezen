@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cybers Securty**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/](https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/)
+- 👨‍💻 All of my projects are available at https://github.com/YagizDemirezen
 
 - 📫 How to reach me **yagizdemirezen@gmail.com**
 
-- My Website:**https://yagizdemirezen-kappa.vercel.app/**
+- My Website: **https://yagizdemirezen-kappa.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
