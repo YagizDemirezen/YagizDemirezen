@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Software Developer from Turkey!</h3>
 
-- 🔭 I’m currently working on [Intro Exhibition & Conference](https://www.introfair.com/)
-
-- 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase**
+- 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cybers Securty**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/](https://www.linkedin.com/in/ya%C4%9F%C4%B1z-demirezen-8642192b5/)
 
