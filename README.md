@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="center">My Tech Stack</h3>
 
 **💻 Frontend**  
 <table>
