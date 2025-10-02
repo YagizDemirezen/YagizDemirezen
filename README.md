@@ -6,40 +6,45 @@
 - 📫 How to reach me **yagizdemirezen@gmail.com**
 - 🖋️ My Portfolio: <a href="https://yagizdemirezen-kappa.vercel.app/">**yagizdemirezen-kappa.vercel.app**</a>
 
-<table>
-<tr>
-  <td>
-    <h3 align="left">Connect with me:&nbsp;&nbsp;</h3>
-  </td>
-  <td>
-    <a href="https://linkedin.com/in/yağız demirezen" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yağız demirezen" height="30" width="40" />
-    </a>
-  </td>
-  <td>
-    <a href="https://instagram.com/yaazdmrzn" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaazdmrzn" height="30" width="40" />
-    </a>
-  </td>
-</tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/yağız demirezen" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yağız demirezen" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/yaazdmrzn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaazdmrzn" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
 <h3 align="center">My Tech Stack</h3>
 
-**🖥️ Backend / Database**  
+**🖥️ Backend**  
 <table>
 <tr>
   <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
   <td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></td>
   <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="40" height="40"/></a></td>
-  <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-  <td><a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a></td>
+</tr>
+</table>
+
+**🗄️ Database**  
+<table>
+<tr>
   <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
   <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
   <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
   <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+</tr>
+</table>
+
+**☁️ BaaS / Cloud Services**  
+<table>
+<tr>
+  <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
+  <td><a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a></td>
 </tr>
 </table>
 
