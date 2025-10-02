@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Software Developer from Turkey!</h3>
 
-- 👨‍💻 I’m currently developing <a href=https://github.com/YagizDemirezen/Moodex> **Moodex** </a>
+- 👨‍💻 I’m currently developing <a href=https://github.com/YagizDemirezen/Moodex style="text-decoration: none; color: #caceff;"> **Moodex** </a>
 
-- 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cybers Security**
+- 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cyber Security**
 
 - 📫 How to reach me **yagizdemirezen@gmail.com**
 
-- 🖋️ My Website: **https://yagizdemirezen-kappa.vercel.app/**
+- 🖋️ My Portfolio: <a href=https://yagizdemirezen-kappa.vercel.app/ style="text-decoration: none;"> **href=https://yagizdemirezen-kappa.vercel.app/** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
