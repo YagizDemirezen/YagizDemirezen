@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Software Developer from Turkey!</h3>
 
+- 📚 I’m studying for the Vertical Transfer Exam (DGS) in Turkey, which allows two-year college graduates to transfer to a four-year university program. Wish me a luck :P
+
+
 - 👨‍💻 I’m currently developing <a href="https://github.com/YagizDemirezen/Moodex">**Moodex**</a>
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cyber Security**
 - 📫 How to reach me **yagizdemirezen@gmail.com**
