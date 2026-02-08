@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cyber Security**
 - 📫 How to reach me **yagizdemirezen@gmail.com**
-- 🖋️ My Portfolio: <a href="https://yagizdemirezen-kappa.vercel.app/">**yagizdemirezen-kappa.vercel.app**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p>
