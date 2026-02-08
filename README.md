@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Software Developer from Turkey!</h3>
 
-- 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cyber Security**
+- 🌱 I’m currently learning **React, React Native, Node.js, Next.js, Supabase, Cybersecurity**
 - 📫 How to reach me **yagizdemirezen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
