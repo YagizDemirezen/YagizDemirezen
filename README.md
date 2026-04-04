@@ -10,9 +10,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yağız demirezen" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/yaazdmrzn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaazdmrzn" height="30" width="40" />
-  </a>
 </p>
 
 ---
