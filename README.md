@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Yağız</h1>
 <h3 align="center">Software Developer | Cybersecurity Analyst | IT </h3>
-<p>You can reach me</p> <h3>yagizdemirezen@gmail.com</h3>
-
+<p>
+  You can reach me --> 
+  <span class="email">yagizdemirezen@gmail.com</span>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/yağız demirezen" target="_blank">
