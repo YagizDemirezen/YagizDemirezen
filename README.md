@@ -1,83 +1,95 @@
-<h1 align="center">Hi, I'm Yağız</h1>
-<h3 align="center">Software Developer | Cybersecurity Analyst | IT </h3>
+<h1 align="center">👋 Hi, I'm Yağız Demirezen</h1>
+
+<h3 align="center">Software Developer | Cybersecurity Analyst | IT Enthusiast</h3>
+
+
+<h3>📫 How to Reach Me</h3>
+
 <p>
-  You can reach me --> 
-  <span class="email">yagizdemirezen@gmail.com</span>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/yağız demirezen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yağız demirezen" height="30" width="40" />
+  <a href="mailto:yagizdemirezen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yagizdemirezen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/yağız-demirezen">
+    <img src="https://img.shields.io/badge/LinkedIn-Yağız%20Demirezen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
-<h3 align="center">My Tech Stack</h3>
+<h3>💻 My Development Stack</h3>
 
-**🖥️ Backend**  
-<table>
-<tr>
-  <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-  <td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></td>
-  <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="40" height="40"/></a></td>
-  <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
-  <td><a href="https://www.java.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a></td>
-  <td><a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a></td>
-</tr>
-</table>
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**🗄️ Database**  
-<table>
-<tr>
-  <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-  <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-  <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
-  <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-</tr>
-</table>
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
-**☁️ BaaS / Cloud Services**  
-<table>
-<tr>
-  <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-  <td><a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a></td>
-</tr>
-</table>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-**💻 Frontend**  
-<table>
-<tr>
-  <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-  <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
-  <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-  <td><a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></td>
-  <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-  <td><a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a></td>
-</tr>
-</table>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
 
-**⚙️ Tools & Platforms**  
-<table>
-<tr>
-  <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-  <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-  <td><a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/768px-Kali-dragon-icon.svg.png" alt="kali" width="40" height="40"/></a></td>
-  <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-  <td><a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
-  <td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></td>
-  <td><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a></td>
-  <td><a href="https://www.cisco.com/c/en/us/products/networking/packet-tracer/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="40" height="40"/></a></td>
-  <td><a href="https://www.devexpress.com/" target="_blank"><img src="https://www.elmer.com.tr/images/2022/02/21/dev_ex.png" alt="devexpress" width="40" height="40"/></a></td>
-</tr>
-</table>
+<p>
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=security&logoColor=white" />
+  <img alt="Dirbuster" src="https://img.shields.io/badge/Dirbuster-000000?style=for-the-badge&logo=security&logoColor=white" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
-**🧠 Machine Learning / AI**  
-<table>
-<tr>
-  <td><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
-</tr>
-</table>
+<p>
+  <img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" />
+</p>
+
+
+---
+
+<h3>🏆 Certifications</h3>
+
+<p>
+
+<a href="https://www.credly.com/badges/6a0e2db3-4688-4135-9929-6cd8c1ed9819/public_url" target="_blank">
+<img src="https://images.credly.com/size/160x160/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="120" height="120" />
+</a>
+
+<a href="https://www.credly.com/badges/5cc323d6-d5a6-4e22-9efc-73dccb6473c4/public_url" target="_blank">
+<img src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" height="120" />
+</a>
+
+<a href="https://www.credly.com/badges/9cd01123-b87b-4ac2-bfce-4464f836918e/public_url" target="_blank">
+<img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" />
+</a>
+
+<a href="https://www.credly.com/badges/35455493-5b1f-4acf-9158-9d13941b74ef/public_url" target="_blank">
+<img src="https://images.credly.com/size/160x160/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="120" height="120" />
+</a>
+
+</p>
