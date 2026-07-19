@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Software Developer & SOC Candidate from Turkey!</h3>
-- 📫 How to reach me **yagizdemirezen@gmail.com**
+- 📫 You can reach me --> <b><yagizdemirezen@gmail.com/b>
 
 <h3 align="left">Connect with me:</h3>
 <p>
