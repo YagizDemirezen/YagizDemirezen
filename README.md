@@ -58,6 +58,7 @@
 </p>
 
 <p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" />
 </p>
 
