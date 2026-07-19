@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Yağız Demirezen</h1>
 <h3 align="center">Software Developer | Cybersecurity Analyst | IT Enthusiast</h3>
-<h3>✉️ How to Reach Me</h3>
+<h3>📩 How to Reach Me</h3>
 <p>
   <a href="mailto:yagizdemirezen@gmail.com"><img src="https://img.shields.io/badge/yagizdemirezen%40gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
   <br />
