@@ -1,24 +1,16 @@
 <h1 align="center">👋 Hi, I'm Yağız Demirezen</h1>
-
 <h3 align="center">Software Developer | Cybersecurity Analyst | IT Enthusiast</h3>
-
-
 <h3>📫 How to Reach Me</h3>
-
 <p>
-  <a href="mailto:yagizdemirezen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yagizdemirezen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/yağız-demirezen">
-    <img src="https://img.shields.io/badge/LinkedIn-Yağız%20Demirezen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:yagizdemirezen@gmail.com"><img src="https://img.shields.io/badge/yagizdemirezen%40gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+  <br />
+  <a href="https://linkedin.com/in/yagizdemirezen"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" /></a>
 </p>
 
 
 ---
 
-<h3>💻 My Development Stack</h3>
+<h3>💻 My Tech Stack</h3>
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -75,21 +67,8 @@
 <h3>🏆 Certifications</h3>
 
 <p>
-
-<a href="https://www.credly.com/badges/6a0e2db3-4688-4135-9929-6cd8c1ed9819/public_url" target="_blank">
-<img src="https://images.credly.com/size/160x160/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="120" height="120" />
-</a>
-
-<a href="https://www.credly.com/badges/5cc323d6-d5a6-4e22-9efc-73dccb6473c4/public_url" target="_blank">
-<img src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" height="120" />
-</a>
-
-<a href="https://www.credly.com/badges/9cd01123-b87b-4ac2-bfce-4464f836918e/public_url" target="_blank">
-<img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" />
-</a>
-
-<a href="https://www.credly.com/badges/35455493-5b1f-4acf-9158-9d13941b74ef/public_url" target="_blank">
-<img src="https://images.credly.com/size/160x160/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="120" height="120" />
-</a>
-
+  <a href="https://www.credly.com/badges/6a0e2db3-4688-4135-9929-6cd8c1ed9819/public_url" target="_blank"><img src="https://images.credly.com/size/160x160/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="120" height="120" /></a>
+  <a href="https://www.credly.com/badges/5cc323d6-d5a6-4e22-9efc-73dccb6473c4/public_url" target="_blank"><img src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" height="120" /></a>
+  <a href="https://www.credly.com/badges/9cd01123-b87b-4ac2-bfce-4464f836918e/public_url" target="_blank"><img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" /></a>
+  <a href="https://www.credly.com/badges/35455493-5b1f-4acf-9158-9d13941b74ef/public_url" target="_blank"><img src="https://images.credly.com/size/160x160/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="120" height="120" /></a>
 </p>
